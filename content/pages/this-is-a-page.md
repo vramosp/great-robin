@@ -12,5 +12,7 @@ layout: page
 
 Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-- Lorem ipsum
-- dolor sit amet
+*   Lorem ipsum
+*   dolor sit amet
+
+![](/images/because-who-doesnt-love-over-the-air-software-updates.jpg)
