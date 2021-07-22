@@ -1645,7 +1645,7 @@ models:
     labelField: label
     fields:
       - type: string
-        name: button
+        name: label
         label: Label
         required: true
       - type: string
